@@ -1,1 +1,1 @@
-# URI Online Judge with the Rust
+# URI Online Judge with Rust
