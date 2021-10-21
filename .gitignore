@@ -11,3 +11,6 @@
 
 # IntelliJ IDEA's generated files
 **/.idea
+
+# macOS' generated file
+**/.DS_Store
